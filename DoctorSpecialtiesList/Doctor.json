@@ -1,0 +1,63 @@
+[
+    {
+        "name": "Orthopedics",
+        "imagename": "Orthopedics",
+        "description": "Orthopedics is a branch of medicine that focuses on the care of the musculoskeletal system. This system consists of muscles, bones, joints, ligaments, and tendons.A person who specializes in orthopedics is known as an orthopedist. Orthopedists use surgical and nonsurgical approaches to treat musculoskeletal issues, such as sports injuries, joint pain, and back problems."
+    },
+    {
+        "name": "Internal Medicine",
+        "imagename": "Internal Medicine",
+        "description": "Image result for Internal Medicine information Internal Medicine is the branch of medicine that deals with the prevention, diagnosis, and treatment of undifferentiated and multi-system diseases and their processes. It is derived from the German word 'Innere Medizin' meaning internal medicine"
+    },
+    {
+        "name": "Obstetrics and Gynecology",
+        "imagename": "Obstetrics and Gynecology",
+        "description": "A branch of medicine that specializes in the care of women during pregnancy and childbirth and in the diagnosis and treatment of diseases of the female reproductive organs. It also specializes in other women's health issues, such as menopause, hormone problems, contraception (birth control), and infertility."
+    },
+    {
+        "name": "Dermatology",
+        "imagename": "Dermatology",
+        "description": "Dermatology involves the study, research, diagnosis, and management of any health conditions that may affect the skin, fat hair, nails, and membranes. A dermatologist is the health professional who specializes in this area of healthcare."
+    },
+    {
+        "name": "Pediatrics",
+        "imagename": "Pediatrics",
+        "description": "Image result for Pediatrics information Pediatrics is the branch of medicine dealing with the health and medical care of infants, children, and adolescents from birth up to the age of 18. The word “paediatrics” means “healer of children”; they are derived from two Greek words: (pais = child) and (iatros = doctor or healer)."
+    },
+    {
+        "name": "General Surgery",
+        "imagename": "General Surgery",
+        "description": "General Surgery is a discipline of surgery having a central core of knowledge embracing anatomy, physiology, metabolism, immunology, nutrition, pathology, wound healing, shock and resuscitation, intensive care, and neoplasia, which are common to all surgical specialties."
+    },
+    {
+        "name": "Ophthalmology",
+        "imagename": "Ophthalmology",
+        "description": "An ophthalmologist diagnoses and treats all eye diseases, performs eye surgery and prescribes and fits eyeglasses and contact lenses to correct vision problems. Many ophthalmologists are also involved in scientific research on the causes and cures for eye diseases and vision disorders."
+    },
+    {
+        "name": "Family Medicine",
+        "imagename": "Family Medicine",
+        "description": "In addition to diagnosing and treating illness, they also provide preventive care, including routine checkups, health-risk assessments, immunization and screening tests, and personalized counseling on maintaining a healthy lifestyle."
+    },
+    {
+        "name": "Chest Medicine",
+        "imagename": "Chest Medicine",
+        "description": "This chapter explores chest medicine, including respiratory health, bedside tests in chest medicine, further investigations in chest medicine, pneumonia, bronchiectasis, cystic fibrosis (CF), lung tumours, fungi and the lung, asthma, chronic obstructive pulmonary disease (COPD), acute respiratory distress syndrome (ARDS), respiratory failure, pulmonary embolism (PE), pneumothorax, pleural effusion, obstructive sleep apnoea syndrome, cor pulmonale, sarcoidosis, interstitial lung disease (ILD), extrinsic allergic alveolitis (EAA), idiopathic pulmonary fibrosis (IPF), and industrial dust diseases."
+    },
+    {
+        "name": "Anesthesia",
+        "imagename": "Anesthesia",
+        "description": "Anesthesia is a medical treatment that prevents patients from feeling pain during procedures like surgery, certain screening and diagnostic tests, tissue sample removal (e.g., skin biopsies), and dental work. It allows people to have procedures that lead to healthier and longer lives."
+    },
+    {
+        "name": "Pathology",
+        "imagename": "Pathology",
+        "description": "Clinical pathology is a medical specialty that is concerned with the diagnosis of disease based on the laboratory analysis of bodily fluids such as blood and urine, as well as tissues, using the tools of chemistry, clinical microbiology, hematology and molecular pathology."
+    },
+    {
+        "name": "ENT",
+        "imagename": "ENT",
+        "description": "Hearing and balance, swallowing and speech, breathing and sleep issues, allergies and sinuses, head and neck cancer, skin disorders, even facial plastic surgery are just some of the conditions that “ENT” (ear, nose, and throat) specialists treat."
+    }
+]
+ 
